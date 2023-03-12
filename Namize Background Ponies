@@ -18,8 +18,8 @@
 
   //if dot AND FNC is false colored will be false
   const Colored = true; //change this to false if you don't like colors
-  const FNC = false; //true -  full name will be coloured
-  //false - only marker will be coloured
+  const FNC = false; //true  - full name will be coloured
+  //                   false - only marker will be coloured
   const ABP = true; //change this to false if you don't wish add "(Background Pony)" to the end of anon's "names"
   const Style = true //adds "title" like background pony label
   //------------------------------------------------------------------------------------------------
